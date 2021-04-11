@@ -22,7 +22,7 @@ weight = "5"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = "6"
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
