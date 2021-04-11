@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "mercel consultants"
 [[menu.main]]
+URL = "Ecommerce Management"
+name = "Ecommerce Management"
+weight = "3"
+[[menu.main]]
 URL = "Web Development"
 name = "Web Development"
 weight = "2"
