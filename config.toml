@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "mercel consultants"
 [[menu.main]]
-URL = ""
+URL = "webdev"
 name = "Web Development"
 weight = ""
 [[menu.main]]
