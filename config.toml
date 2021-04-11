@@ -6,7 +6,7 @@ title = "mercel consultants"
 [[menu.main]]
 URL = "Payment Solutions"
 name = "Payment Solutions"
-weight = "7"
+weight = "4"
 [[menu.main]]
 URL = "Ecommerce"
 name = "Ecommerce"
