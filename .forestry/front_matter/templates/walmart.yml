@@ -11,3 +11,9 @@ fields:
 - type: text
   name: description
   label: description
+- name: gg
+  type: text
+  config:
+    required: false
+  label: gg
+  description: bbb
