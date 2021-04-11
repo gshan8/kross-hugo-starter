@@ -12,8 +12,8 @@ URL = "Web Development"
 name = "Web Development"
 weight = "2"
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "about us"
+name = "About us"
 weight = "4"
 [[menu.main]]
 URL = "blog"
